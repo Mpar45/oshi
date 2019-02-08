@@ -1,3 +1,6 @@
+FORK FROM https://github.com/oshi/oshi
+This project was made on a small team in collaboration at Villanova University. The goal was to use the oshi library to develop a front end, more user friendly application in Java. This consists of a more cleaner and simple UI to demonstrate a user's hardware specifications and system performance. There is also a notification system that is included in this project, intended to notify users of the perfoormance of their system.
+
 ![OSHI](https://dl.dropboxusercontent.com/s/c82qboyvvudpvdp/oshilogo.png)
 
 [![Maven central](https://maven-badges.herokuapp.com/maven-central/com.github.oshi/oshi-core/badge.svg?)](https://search.maven.org/search?q=com.github.oshi)
